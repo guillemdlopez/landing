@@ -1,0 +1,24 @@
+.footer {
+  background: #2C2B2B;
+  padding: 60px;
+  text-align: center;
+}
+
+.inline-list {
+  padding-left: 0px;
+}
+
+.inline-list li {
+  display: inline-block;
+}
+
+.inline-list i {
+  color: #1DDD88;
+  font-size: 40px;
+  padding: 0px 10px;
+}
+
+.message {
+  color: #6B6C6C;
+  text-align: center;
+}

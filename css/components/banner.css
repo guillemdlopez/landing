@@ -1,0 +1,34 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(../../images/background.png);
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  display: flex;
+  align-items: center;
+}
+
+.container h1 {
+  font-size: 34px;
+  color: white;
+  margin: 0px;
+}
+
+.container p {
+  color: #B8C7CD;
+  font-weight: lighter;
+  margin-top: 20px;
+  margin-bottom: 18px;
+  font-size: 20px;
+}
+
+
+.btn-yellow {
+  background: #1DDD88;
+  padding: 15px 35px;
+  border-radius: 35px;
+  display: inline-block;
+  color: white;
+}
+
+.btn-yellow:hover {
+}
